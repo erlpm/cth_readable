@@ -8,8 +8,8 @@
 all() ->
   [pal].
 
-%% run with rebar3 ct --readable false
-%% and configure rebar.config with
+%% run with epm ct --readable false
+%% and configure epm.config with
 %%     {ct_opts, [
 %        {ct_hooks, [{cth_readable_failonly, [{max_events, 2}]}, cth_readable_shell]}
 %      ]}.

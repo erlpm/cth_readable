@@ -1,4 +1,4 @@
-.rebar3
+.epm
 _*
 .eunit
 *.o
@@ -10,7 +10,7 @@ _*
 ebin
 log
 erl_crash.dump
-.rebar
+.epm
 _rel
 _deps
 _plugins

@@ -24,13 +24,13 @@ There are currently the following hooks:
 ![example](http://i.imgur.com/dDFNxZr.png)
 ![example](http://i.imgur.com/RXZBG7H.png)
 
-## Usage with rebar3
+## Usage with epm
 
 Supported and enabled by default.
 
-## Usage with  rebar2.x
+## Usage with  epm2.x
 
-Add the following to your `rebar.config`:
+Add the following to your `epm.config`:
 
 ```erlang
 {deps, [
